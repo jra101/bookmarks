@@ -1,0 +1,17 @@
+{
+  "name": "Bookmarks",
+  "short_name": "Bookmarks",
+  "description": "Bookmarks",
+  "scope": "/bookmarks/",
+  "start_url": "/bookmarks/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "browser", 
+  "icons": [
+      {
+        "src": "/default.png",
+        "type": "image/png",
+        "sizes": "64x64"
+      }
+  ]
+}

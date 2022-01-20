@@ -4,7 +4,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" href="default.png">
+  <link rel="canonical" href="https://jra101.github.io/bookmarks/" />
+  <link rel="manifest" href="/bookmarks/manifest.webmanifest">
   <title>Bookmarks</title>
+  <script>
+    if (navigator.serviceWorker) {
+      navigator.serviceWorker.register('/bookmarks/sw.js', { scope: '/bookmarks/' })
+    }
+  </script>
   <style>
     body { font-family: Verdana, Geneva, sans-serif; margin: 0px; }
     .vcol { display: flex; flex-direction: column; }
