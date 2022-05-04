@@ -1,8 +1,9 @@
 const cacheName = 'bookmarks_v1';
 const cachedContent = [    
   '/bookmarks/',
-  '/bookmarks/index.html'
-  '/bookmarks/default.png'
+  '/bookmarks/index.html',
+  '/bookmarks/favicon.png',
+  '/bookmarks/noicon.png'
 ]
 
 self.addEventListener('install', (e) => {
