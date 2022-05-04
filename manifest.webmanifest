@@ -9,9 +9,14 @@
   "display": "browser", 
   "icons": [
       {
-        "src": "/default.png",
+        "src": "/favicon.png",
         "type": "image/png",
-        "sizes": "64x64"
+        "sizes": "192x192"
+      },
+      {
+        "src": "/favicon_large.png",
+        "type": "image/png",
+        "sizes": "512x512"
       }
   ]
 }

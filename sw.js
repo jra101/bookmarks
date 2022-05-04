@@ -3,6 +3,7 @@ const cachedContent = [
   '/bookmarks/',
   '/bookmarks/index.html',
   '/bookmarks/favicon.png',
+  '/bookmarks/favicon_large.png',
   '/bookmarks/noicon.png'
 ]
 
