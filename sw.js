@@ -9,7 +9,7 @@ const cachedContent = [
 self.addEventListener('install', (e) => {
   e.waitUntil((async () => {
     const cache = await caches.open(cacheName);
-    await cache.addAll(contentToCache);
+    await cache.addAll(cachedContent);
   })());
 });
 
