@@ -6,7 +6,7 @@
   "start_url": "/bookmarks/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
-  "display": "minimal-ui", 
+  "display": "browser", 
   "icons": [
       {
         "src": "/favicon.png",
