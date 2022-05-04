@@ -1,9 +1,10 @@
-const cacheName = 'bookmarks_v3';
+const cacheName = 'bookmarks';
 const cachedContent = [    
   '/bookmarks/',
   '/bookmarks/index.html',
   '/bookmarks/favicon.png',
-  '/bookmarks/favicon_large.png',
+  '/bookmarks/app.png',
+  '/bookmarks/app_large.png',
   '/bookmarks/noicon.png'
 ]
 

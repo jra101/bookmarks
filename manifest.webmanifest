@@ -9,12 +9,12 @@
   "display": "browser", 
   "icons": [
       {
-        "src": "/favicon.png",
+        "src": "/app.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "/favicon_large.png",
+        "src": "/app_large.png",
         "type": "image/png",
         "sizes": "512x512"
       }
