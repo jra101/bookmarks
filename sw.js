@@ -1,4 +1,4 @@
-const cacheName = 'bookmarks_v1';
+const cacheName = 'bookmarks_v2';
 const cachedContent = [    
   '/bookmarks/',
   '/bookmarks/index.html',
