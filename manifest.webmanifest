@@ -1,6 +1,5 @@
 {
   "name": "Bookmarks",
-  "short_name": "Bookmarks",
   "description": "Bookmarks",
   "scope": "/bookmarks/",
   "start_url": "/bookmarks/",
