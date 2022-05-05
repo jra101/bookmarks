@@ -9,12 +9,12 @@
   "display": "browser", 
   "icons": [
       {
-        "src": "/app.png",
+        "src": "/bookmarks/app.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "/app_large.png",
+        "src": "/bookmarks/app_large.png",
         "type": "image/png",
         "sizes": "512x512"
       }
