@@ -5,7 +5,7 @@
   "start_url": "/bookmarks/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
-  "display": "browser", 
+  "display": "minimal-ui", 
   "icons": [
       {
         "src": "/bookmarks/app.png",
