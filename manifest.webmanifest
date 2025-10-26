@@ -8,12 +8,12 @@
   "display": "browser", 
   "icons": [
       {
-        "src": "/bookmarks/app.png",
+        "src": "/bookmarks/android-chrome-192x192.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "/bookmarks/app_large.png",
+        "src": "/bookmarks/android-chrome-512x512.png",
         "type": "image/png",
         "sizes": "512x512"
       }
