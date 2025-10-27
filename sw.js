@@ -3,9 +3,8 @@ const cachedContent = [
   '/bookmarks/',
   '/bookmarks/index.html',
   '/bookmarks/favicon.png',
-  '/bookmarks/app.png',
-  '/bookmarks/app_large.png',
-  '/bookmarks/noicon.png'
+  '/bookmarks/android-chrome-192x192.png',
+  '/bookmarks/android-chrome-512x512.png'
 ]
 
 self.addEventListener('install', (e) => {
