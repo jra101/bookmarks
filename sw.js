@@ -1,4 +1,4 @@
-const cacheName = 'bookmarks';
+const cacheName = 'bookmarks_pwa';
 const cachedContent = [    
   '/bookmarks/',
   '/bookmarks/index.html',
